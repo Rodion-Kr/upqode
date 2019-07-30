@@ -168,15 +168,3 @@ google.maps.event.addDomListener(window, 'load', initialize);
 });
 
 
-var a = 1;
-var b = 2;
-var c = 3;
-
-
-console.log(a & b);
-console.log(a % b);
-console.log(a - b);
-
-console.log(a + b);
-
-console.log((a + b)% 2);
